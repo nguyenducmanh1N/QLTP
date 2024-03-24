@@ -17,6 +17,13 @@ namespace QLTN_
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
+
+            Console.WriteLine("Security");
+            Console.WriteLine("Security");
+            Console.WriteLine("Security");
+            Console.WriteLine("Security");
+            Console.WriteLine("Security");
+
         }
     }
 }
