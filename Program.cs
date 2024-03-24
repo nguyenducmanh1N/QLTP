@@ -19,7 +19,10 @@ namespace QLTN_
             Application.Run(new Login());
 
             Console.WriteLine("Security");
-
+            Console.WriteLine("Security");
+            Console.WriteLine("Security");
+            Console.WriteLine("Security");
+            Console.WriteLine("Security");
 
         }
     }
