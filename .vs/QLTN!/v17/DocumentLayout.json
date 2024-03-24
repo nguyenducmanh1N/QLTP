@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\source\\repos\\QLTN!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NGUYE_SOURCE_REPOS_QLTN__RENTALDATA.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434DBF9D-045A-4F77-B0F3-72EF9F79100D}|QLTN!.csproj|C:\\Users\\nguye\\source\\repos\\QLTN!\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434DBF9D-045A-4F77-B0F3-72EF9F79100D}|QLTN!.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434DBF9D-045A-4F77-B0F3-72EF9F79100D}|QLTN!.csproj|c:\\users\\nguye\\source\\repos\\qltn!\\hashpassword\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434DBF9D-045A-4F77-B0F3-72EF9F79100D}|QLTN!.csproj|solutionrelative:hashpassword\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434DBF9D-045A-4F77-B0F3-72EF9F79100D}|QLTN!.csproj|C:\\Users\\nguye\\source\\repos\\QLTN!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434DBF9D-045A-4F77-B0F3-72EF9F79100D}|QLTN!.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_NGUYE_SOURCE_REPOS_QLTN__RENTALDATA.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-22T09:16:38.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\QLTN!\\HashPassword\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "HashPassword\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\QLTN!\\HashPassword\\PasswordHasher.cs",
+              "RelativeToolTip": "HashPassword\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:05:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\QLTN!\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\QLTN!\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:03:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\QLTN!\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\QLTN!\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:43:10.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
